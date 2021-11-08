@@ -8,4 +8,12 @@ By only listening on localhost in the binary and using the proxy to expose to a 
 
 ```
 usage: tcpproxy listen:port:target:port ...
+
+```
+
+Installation
+============
+
+```
+go install github.com/databus23/tcpproxy/tcpproxy@latest
 ```
